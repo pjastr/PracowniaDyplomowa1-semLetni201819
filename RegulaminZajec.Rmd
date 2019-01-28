@@ -78,7 +78,7 @@ Nieobecności na zajęciach będą usprawiedliwiane na podstawie usprawiedliwie�
 poświadczonych odpowiednim podpisem (ew. brak podpisu musi wynikać z przepisów szczególnych). Informacja o studentach, których liczba nieusprawiedliwionych nieobecności przekracza 3, zostanie przesłana do odpowiedniego dziekanatu.
 
 ## 9. Zasada ustalania oceny końcowej zaliczenia przedmiotu.
-Zaliczenie ćwiczeń będzie przyznane tym uczestnikom zajęć, którzy otrzymają pozytywną ocenę za przygotowany referat oraz zgodnie z odrębnymi przepisami dopełnią formalności ze zgłoszeniem tematu pracy inżynierskiej do dnia 9.06.2019. W wyjątkowych sytuacjach termin może zostać wydłużony do maksymalnego terminu na wpisanie ocen w systemie USOS.
+Zaliczenie seminarium będzie przyznane tym uczestnikom zajęć, którzy otrzymają pozytywną ocenę za przygotowany referat oraz zgodnie z odrębnymi przepisami dopełnią formalności ze zgłoszeniem tematu pracy inżynierskiej do dnia 9.06.2019. W wyjątkowych sytuacjach termin może zostać wydłużony do maksymalnego terminu na wpisanie ocen w systemie USOS.
 
 ## 10. Konsultacje.
 Aktualne terminy konsultacji dostępne są w systemie USOS i na stronie prowadzącego zajęcia.
