@@ -1,0 +1,24 @@
+---
+title: "Propozycje tematyki"
+output:
+  pdf_document: default
+header-includes: \usepackage[polish]{babel}
+---
+
+Propozycje tematyki prac inżynierskich:
+
+* gra typu 2048 z rozbudowanym algorytmem ze sztuczną inteligencją
+* gry z wykorzystaniem lokalizacji lub AR w stylu Resources czy Pokemon GO
+* mały klon WoWa
+* gra w stylu space shouter
+* gry platformowe
+* gry w stylu HOPA
+* gra społecznościowa typu citybuilder z integracją z wybranym serwisem społecznościowym
+* gra w stylu wyścig samochodowy/motocyklowy
+* gra w stylu tower defense z algorytem wykorzystującym AI
+
+Sugerowane jest aby, fabuła gry (o ile to możliwe) była osadzona w regionie Warmi i Mazur lub lokalnego środowiska.
+
+Aplikacje powinny powstać z wykorzystaniem Unity 3D i języka C#. Dopuszczalny jest miks technologii. 
+
+Możliwe jest też tworzenie aplikacji (nie-growej) na bazie Unity po indywidualnym uzgodnieniu.
