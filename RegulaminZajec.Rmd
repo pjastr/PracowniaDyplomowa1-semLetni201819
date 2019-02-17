@@ -83,6 +83,8 @@ Zaliczenie seminarium będzie przyznane tym uczestnikom zajęć, którzy otrzyma
 ## 10. Konsultacje.
 Aktualne terminy konsultacji dostępne są w systemie USOS i na stronie prowadzącego zajęcia.
 
+Ostatnia aktualizacja pliku: `r Sys.time()`.
+
 
 
 
