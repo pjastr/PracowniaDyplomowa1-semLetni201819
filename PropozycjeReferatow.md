@@ -10,5 +10,5 @@ Robocza rozpiska tematów prezentacji:
 8. Różnice między grami 2D a 3D.
 9. Kolizje.
 10. Kompilowanie i budowanie produkcyjnej wersji gry.
-11. Diagramy UML dla Unity.
+11. Diagramy UML, przypadki użycia i "inna dokumentacja" dla Unity.
 12. Wolne tematy.
