@@ -1,14 +1,13 @@
 Robocza rozpiska tematów prezentacji:
 
-1. Historia gier komputerowych.
-2. Pierwsza gra RollABall - wykonanie gry w ciągu 1,5h na podstawie tutorialu https://unity3d.com/learn/tutorials/s/roll-ball-tutorial .
-3. Przegląd obiektów gry (GameObject).
-4. Przegląd elementów UI.
-5. Fizyka w Unity.
-6. Światło w grze.
-7. Ustawienia kamery w grze.
-8. Różnice między grami 2D a 3D.
-9. Kolizje.
-10. Kompilowanie i budowanie produkcyjnej wersji gry.
-11. Diagramy UML, przypadki użycia i "inna dokumentacja" dla Unity.
-12. Wolne tematy.
+1. Pierwsza gra RollABall - wykonanie gry w ciągu 1,5h na podstawie tutorialu https://unity3d.com/learn/tutorials/s/roll-ball-tutorial .
+2. Przegląd obiektów gry (GameObject).
+3. Przegląd elementów UI.
+4. Fizyka w Unity.
+5. Światło w grze.
+6. Ustawienia kamery w grze.
+7. Różnice między grami 2D a 3D.
+8. Kolizje.
+9. Kompilowanie i budowanie produkcyjnej wersji gry.
+10. Diagramy UML, przypadki użycia i "inna dokumentacja" dla Unity.
+11. Wolne tematy.
