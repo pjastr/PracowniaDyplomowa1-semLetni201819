@@ -5,4 +5,4 @@
 * zmień sphere na kapsułę i cube i sprawdź jak działa poruszanie gracza
 * dodaj różne inne przeszkody i sprawdź ich kolicje z graczem
 
-2. Stwórz na nowej scenie teren i poćwicz różne opcje z zalesianiem/nakładaniem wody. Poszukaj instrukcji jak dodać gracza z widokiem w trybie pierwszej osoby.
+2. Stwórz na nowej scenie teren i poćwicz różne opcje z zalesianiem/nakładaniem wody. Poszukaj instrukcji jak dodać gracza z widokiem w trybie pierwszej osoby. Ukryj na mapie pewien obiekt gry traktowany jako skarb. Zadaniem gracza niech będzie odszukanie tego skarbu.
